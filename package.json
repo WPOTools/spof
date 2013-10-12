@@ -1,0 +1,29 @@
+{
+  "name": "spof",
+  "version": "0.0.0",
+  "description": "spof it",
+  "main": "./lib/main",
+  "scripts": {
+    "test": "tap ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lafikl/spof.git"
+  },
+  "keywords": [
+    "spof",
+    "performance"
+  ],
+  "author": "Khalid Lafi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lafikl/spof/issues"
+  },
+  "devDependencies": {
+    "tap": "~0.4.4"
+  },
+  "dependencies": {
+    "commander": "~2.0.0",
+    "colors": "~0.6.2"
+  }
+}
