@@ -10,7 +10,7 @@ for more info read [this article](www.stevesouders.com/blog/2010/06/01/frontend-
 
 Usage
 ----------
-First you need to install [Phantomjs](phantomjs.org). 
+First you need to install [Phantomjs](http://phantomjs.org). 
 
 Then in your command line run: 
 
