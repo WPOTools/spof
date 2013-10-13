@@ -16,7 +16,7 @@ if ( !cli.website ) {
   return
 }
 
-if ( !cli.css & !cli.js ) {
+if ( !cli.css && !cli.js ) {
   throw new Error('you need to at least SPOF CSS or JS')
 }
 

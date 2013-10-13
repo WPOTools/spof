@@ -4,7 +4,7 @@
   "description": "See what will happen when third-party resource goes down!",
   "main": "./lib/main",
   "scripts": {
-    "test": "tap ./tests"
+    "test": "tap ./tests/index.js"
   },
   "repository": {
     "type": "git",
