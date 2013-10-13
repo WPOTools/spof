@@ -22,6 +22,9 @@
   "devDependencies": {
     "tap": "~0.4.4"
   },
+  "bin": {
+    "spof": "./bin/index.js"
+  },
   "dependencies": {
     "commander": "~2.0.0",
     "colors": "~0.6.2"
