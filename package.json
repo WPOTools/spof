@@ -1,6 +1,6 @@
 {
   "name": "spof",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "See what will happen when third-party resource goes down!",
   "main": "./lib/main",
   "scripts": {
