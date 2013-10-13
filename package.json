@@ -1,7 +1,7 @@
 {
   "name": "spof",
-  "version": "0.0.2",
-  "description": "spof it",
+  "version": "0.0.3",
+  "description": "See what will happen when third-party resource goes down!",
   "main": "./lib/main",
   "scripts": {
     "test": "tap ./tests"
@@ -12,6 +12,8 @@
   },
   "keywords": [
     "spof",
+    "Single point of failure",
+    "Front-end",
     "performance"
   ],
   "author": "Khalid Lafi",

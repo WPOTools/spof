@@ -5,15 +5,16 @@ See what will happen when third-party resource goes down!
 for more info read [this article](www.stevesouders.com/blog/2010/06/01/frontend-spof/)
 
 
-`sudo npm install spof -g`
+    sudo npm install spof -g
 
 
-usage
+Usage
 ----------
+First you need to install [Phantomjs](phantomjs.org). 
 
-in command line run: 
+Then in your command line run: 
 
-`spof --website http://github.com --css --js --port 3001`
+    spof --website http://github.com --css --js --port 3001
 
 - **--js**: SPOF javascripts
 - **--css**: SPOF css
@@ -21,6 +22,7 @@ in command line run:
 
 **--js and --css are optional but you need to spof either js or css**
 
+![usage](http://d1zjcuqflbd5k.cloudfront.net/files/acc_126602/NFwy?response-content-disposition=inline;%20filename=spof.mov.gif;%20filename*=UTF-8%27%27spof.mov.gif&Expires=1381624184&Signature=UPaK6NWwVybcd5OM7MDNhVvo7ZQ5fMYETTgwI7ubSMx45IYz4R0RZ-Aps5fxD5OthfUMAXvuJQ4WI-e-v0Fk1xgt8IlboC8lH-DTyeXhUrVR8KPMs2wSA1mtXd6jQOq7Y-4d0CjX5TLhN-hlf8TbsvjJ9rQPg7Sh0UsrIG3I8LM_&Key-Pair-Id=APKAJTEIOJM3LSMN33SA)
 
 
 Author
