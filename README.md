@@ -22,7 +22,7 @@ Then in your command line run:
 
 **--js and --css are optional but you need to spof either js or css**
 
-![usage](http://d1zjcuqflbd5k.cloudfront.net/files/acc_126602/NFwy?response-content-disposition=inline;%20filename=spof.mov.gif;%20filename*=UTF-8%27%27spof.mov.gif&Expires=1381624184&Signature=UPaK6NWwVybcd5OM7MDNhVvo7ZQ5fMYETTgwI7ubSMx45IYz4R0RZ-Aps5fxD5OthfUMAXvuJQ4WI-e-v0Fk1xgt8IlboC8lH-DTyeXhUrVR8KPMs2wSA1mtXd6jQOq7Y-4d0CjX5TLhN-hlf8TbsvjJ9rQPg7Sh0UsrIG3I8LM_&Key-Pair-Id=APKAJTEIOJM3LSMN33SA)
+![usage](http://f.cl.ly/items/2R332X2a2l46030m3b0o/spof.mov.gif)
 
 
 Author
