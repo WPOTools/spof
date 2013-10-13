@@ -1,18 +1,27 @@
 Spof
 ====
 
-See what will happen when third-party resource goes down!
-for more info read [this article](www.stevesouders.com/blog/2010/06/01/frontend-spof/)
+See what will happen to your site when a third-party provider goes down! 
 
+It uses a [Blackhole server](http://en.wikipedia.org/wiki/Blackhole_server) by [Web page test](http://www.webpagetest.org/) to simulate what will happen if a third-party provider goes down. 
+
+For more info read [this article](www.stevesouders.com/blog/2010/06/01/frontend-spof/) By [Steve Souders](http://www.stevesouders.com/)
+
+
+
+_______
+Installation
+----------
+First you need to install [Nodejs](http://nodejs.org) and [Phantomjs](http://phantomjs.org).  
+
+Then in your command line run: 
 
     sudo npm install spof -g
 
+_______
 
 Usage
-----------
-First you need to install [Phantomjs](http://phantomjs.org). 
-
-Then in your command line run: 
+--------
 
     spof --website http://github.com --css --js --port 3001
 
@@ -25,11 +34,29 @@ Then in your command line run:
 ![usage](http://f.cl.ly/items/2R332X2a2l46030m3b0o/spof.mov.gif)
 
 
+_______
+
 Author
 --------
 [Khalid Lafi](http://github.com/lafikl)
-[@lafikl](http://twitter.com/lafikl)
+[(@LafiKL)](http://twitter.com/lafikl) 
 
+
+
+__________
+ 
+Roadmap
+----------
+- Spof a certain file or a resource e.g ( example.com, example.com/app.js )
+
+
+_______
+
+
+Shout out
+----------
+- Thanks to [Steve Souders](http://www.stevesouders.com/) for his researches.
+- Thanks to [Patrick Meenan](http://blog.patrickmeenan.com/) on his work at Web Page test and their blackhole server which i use in this tool!
 
 License
 ---------
