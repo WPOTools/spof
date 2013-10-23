@@ -5,7 +5,7 @@ See what will happen to your site when a third-party provider goes down!
 
 It uses a [Blackhole server](http://en.wikipedia.org/wiki/Blackhole_server) by [Web page test](http://www.webpagetest.org/) to simulate what will happen if a third-party provider goes down. 
 
-For more info read [this article](www.stevesouders.com/blog/2010/06/01/frontend-spof/) By [Steve Souders](http://www.stevesouders.com/)
+For more info read [this article](http://www.stevesouders.com/blog/2010/06/01/frontend-spof/) By [Steve Souders](http://www.stevesouders.com/)
 
 
 
